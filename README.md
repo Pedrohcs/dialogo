@@ -1,4 +1,4 @@
-# TS2
+# T2S
 
 ## Sobre o projeto
 Projeto com o objetivo de testar o conhecimento técnico para um processo seletivo.<br>
