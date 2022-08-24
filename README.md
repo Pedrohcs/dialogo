@@ -56,10 +56,10 @@ const pool = new Pool({
 ### Instalação e execução
 ```sh
 # 1. Clonar o repositorio
-git clone https://github.com/Pedrohcs/dialogo
+git clone https://github.com/Pedrohcs/t2s
 
 # 2. Mover para o diretório clonado
-cd .\dialogo
+cd .\t2s
 
 # 3. Instalar os pacotes NPM
 npm install
