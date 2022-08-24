@@ -1,4 +1,4 @@
-# dialogo
+# TS2
 
 ## Sobre o projeto
 Projeto com o objetivo de testar o conhecimento técnico para um processo seletivo.<br>
